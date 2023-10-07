@@ -1,0 +1,33 @@
+body{
+    max-width: 1200px;
+    margin-right: auto;
+    margin-left: auto;
+}
+nav{
+    max-width:700px;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+a:hover{
+    color: red;
+    font-size: 115%;
+
+}
+
+
+h5{
+    color: white;
+}
+p{
+    color:white
+}
+.iframe-container {
+    overflow: hidden;
+    padding-top: 1rem;
+    position:relative;
+    box-sizing: border-box;
+  }
+  
+
+  
